@@ -1,4 +1,4 @@
-# tugasBisnisCerdas1
+# Tugas Bisnis Cerdas 1
 Tugas Bisnis Cerdas Pertemuan Pertama
 
 Karena terdapat masalah saat instalasi anaconda navigator, maka digunakan google colab untuk alternatif lainnya
